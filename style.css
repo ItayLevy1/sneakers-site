@@ -151,7 +151,7 @@ a:hover {
   grid-row-gap: 0px;
   height: 120vh;
   width: 100%;
-  background-image: url(/img/bg1.png);
+  background-image: url(./img/bg1.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -318,7 +318,7 @@ form .field input[type="submit"]:active {
 
 .cover2{
   height: 85vh;
-  background-image: url(/img/bg2.png);
+  background-image: url(./img/bg2.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
